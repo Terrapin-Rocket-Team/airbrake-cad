@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Teensy 4.1")(type "KiCad")(uri "C:/Users/kking/OneDrive/Documents/airbrake-cad/pcbs/imu-testbed/External footprints & libraries/Teensy 4.1")(options "")(descr ""))
+  (lib (name "LSM9DS1TR")(type "KiCad")(uri "C:/Users/kking/OneDrive/Documents/Subcircuits/Sensors/IMUs/9 Axis/LSM9DS1/Footprints/LSM9DS1TR")(options "")(descr ""))
+)
